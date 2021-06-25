@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlasJoar
 - 👀 I’m interested in data science applied in industrial manufacturing.
-- 🌱 I’m currently taking the course path Data Science with Python at Dataquest, to be finished this summer.
+- 🌱 I’m currently taking the course path Data Science with Python at Dataquest, to be finished ~~this summer~~ during Autumn.
 - 💞️ I’m not really looking to collaborate for the moment. I prefer to wait until I've learnt some more basics.
 - 📫 How to reach me ... I'd probably prefer if you can't, for the moment.
 
