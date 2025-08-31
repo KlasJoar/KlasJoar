@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KlasJoar
-- 👀 I’m interested in data science applied in industrial manufacturing.
-- 🌱 I’m currently taking the course path Data Science with Python at Dataquest, to be finished ~~this summer during Autumn~~ during spring 2022.
-- 💞️ I’m not really looking to collaborate for the moment. I prefer to wait until I've learnt some more basics.
-- 📫 How to reach me ... I'd probably prefer if you can't, for the moment.
+- 👀 I’m interested in data engineering...
+- 🌱 I am moving to a job where I will start by onboarding to their latest choice if data engineering tools.
+- 💞️ I’m not really looking to collaborate for the moment. I prefer to wait until I've learnt some more basics.... which I don't know when I will feel have have finished.
+- 📫 Reach me if you have my contact info already. On LinkedIn, e-mail or the phone.
 
 <!---
 KlasJoar/KlasJoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
